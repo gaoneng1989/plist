@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>cn.gov.hzwestlakepatrol.mobileApp</string>
 				<key>bundle-version</key>
-				<string>2.6</string>
+				<string>2.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上巡查内测公测版v1.9</string>
+				<string>掌上巡查内测公测版v2.0</string>
 			</dict>
 		</dict>
 	</array>
