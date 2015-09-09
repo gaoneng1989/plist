@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://218.108.30.19:43131/zsxh.interfaces/download/app/WestLakePatrolApp.ipa</string>
+					<string>http://shouqianba.oss.aliyuncs.com/CashBarAppInhouse.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.gov.hzwestlakepatrol.mobileApp</string>
+				<string>com.shouqianba.inhouse</string>
 				<key>bundle-version</key>
-				<string>2.6</string>
+				<string>1.0.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>掌上巡查内测公测版v1.9</string>
+				<string>收钱吧开发测试版</string>
 			</dict>
 		</dict>
 	</array>
