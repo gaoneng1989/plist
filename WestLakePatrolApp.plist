@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://122.224.145.113:8090/zsxh.interfaces/download/app/WestLakePatrolApp.ipa</string>
+					<string>https://raw.githubusercontent.com/gaoneng1989/plist/master/WestLakePatrolApp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
